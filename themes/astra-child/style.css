@@ -1,0 +1,28 @@
+/*
+ Theme Name:   astra Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  astra Child Theme
+ Author:       Amalie Sofienberg
+ Author URI:   http://example.com
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentyfifteenchild, logo centered
+*/
+
+
+.site-primary-header-wrap.ast-builder-grid-row-container.site-header-focus-item.ast-container {
+  position: fixed;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.652);
+}
+
+.sub-menu {
+  background-color: rgba(0, 0, 0, 0.652) !important;
+}
+
+.menu-link:hover {
+  transform: scale(1.1);;
+}
